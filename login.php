@@ -1,9 +1,9 @@
 <?php
 /*
  *
- * Blaha / Fedia.cz   malfini-login.php
+ * Blaha Petr   malfini-login.php
  * version 0.1
- * programing Fedia.cz blaha@fedia.cz
+ * programing petrbla@gmail.com
  * vytvoreno  07 2022
  *
  */
