@@ -1,6 +1,13 @@
+<?php
+/*
+ *
+ * Blaha Petr   Stockavailabilities.php
+ * version 0.1
+ * programing petrbla@gmail.com
+ * vytvoreno  09 2022
+ *
+ */
 $tokenn = token();
-//dotaz na vsechny produkty
-
 $url = "https://api.malfini.com/api/v4/product/availabilities";
 $curl = curl_init($url);
 curl_setopt($curl, CURLOPT_URL, $url);
